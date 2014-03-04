@@ -11,6 +11,8 @@
 
 撮影画像KML（速報版） -> http://goo.gl/Kcp6Di
 
+撮影画像KML（詳細版/380MB） -> http://goo.gl/DsRZpW
+
 
 ・ウェブ での閲覧はこちら
 （準備中）
