@@ -8,3 +8,5 @@
 ライセンスについては以下のオープンライセンスで公開いたします。
 
 (c) Hideyuki TANAKA, The Univ. of Tokyo, CC BY 
+
+http://creativecommons.org/licenses/by/2.1/jp/
