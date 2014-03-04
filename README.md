@@ -9,8 +9,6 @@
 
 撮影概要KML -> http://goo.gl/QMw4af
 
-撮影画像KML（速報版） -> http://goo.gl/Kcp6Di
-
 撮影画像KML（詳細版） -> http://goo.gl/RQ1CgZ （実データ）、 http://goo.gl/OlOqCT （一括ダウンロード）
 
 
