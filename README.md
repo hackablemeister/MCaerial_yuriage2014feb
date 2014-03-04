@@ -5,8 +5,16 @@
 その状況をOpenStreetMapへの入力することを目的に
 東京大学 田中秀幸研究室によって撮影されました。
 
+・Google Earth での閲覧はこちら（準備中）
+
+・ウェブ での閲覧はこちら（準備中）
+
+・OpenStreetMap用エディタ iD での表示には以下のタイルURLをカスタムマップとして設定してください。
+（準備中）
+
+
 ライセンスについては以下のオープンライセンスで公開いたします。
 
-(c) Hideyuki TANAKA, The Univ. of Tokyo, CC BY 
+(c)The Univ. of Tokyo, CC BY 
 
 http://creativecommons.org/licenses/by/2.1/jp/
