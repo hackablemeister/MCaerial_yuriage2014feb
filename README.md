@@ -13,7 +13,7 @@
 
 
 ・ウェブ での閲覧はこちら
-（準備中）
+ -> http://www.gigapan.com/gigapans/150841
 
 ・OpenStreetMap用エディタ iD での表示には以下のタイルURLをカスタムマップとして設定してください。
 （準備中）
