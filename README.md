@@ -13,10 +13,12 @@
 
 
 ・ウェブ での閲覧はこちら
- -> http://www.gigapan.com/gigapans/150841
+
+　-> http://www.gigapan.com/gigapans/150841
 
 ・OpenStreetMap用エディタ iD での表示には以下のタイルURLをカスタムマップとして設定してください。
-（準備中）
+
+　-> https://raw.github.com/mapconcierge/MCaerial_yuriage2014feb/master/Tiles900913/{z}/{x}/{y}.png
 
 
 ---
